@@ -1,2 +1,11 @@
 Em ... Pof ? Un ... MMM ... Euuuh ... Pouf !
-Une station de m�tro abandonn�e couverte de graffitis ? Comme Haxo, Croix-Rouge, Saint-Martin et Arsenal � Paris ? Ouais �a passe !
+Une station de métro abandonnée couverte de graffitis ? Comme Haxo, Croix-Rouge, Saint-Martin et Arsenal à Paris ? Ouais ça passe !
+
+Explorer les tunnels vers le nord-ouest
+  Vers Tunnels Nord-Ouest
+
+Explorer les tunnels vers le sud
+  Vers Tunnels Sud
+
+Demander l'histoire des stations abandonnées du Métro de Paris citées par le narrateur.
+  Vers Histoire des Stations Abandonnées du Métro de Paris Citées par le Narrateur
